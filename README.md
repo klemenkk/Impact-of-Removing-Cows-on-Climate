@@ -1,7 +1,7 @@
 # Killing al the cows
 Climate implications of reducing meat consumption (killing all the cows today "for the planet") today on the global average temperature.
 
-![Climate projections of killing all the cows today](plots/Killing all the cows.png "Effect of highest level of virtue signaling")
+![Climate projections of killing all the cows today]("plots/Killing all the cows.png" "Effect of highest level of virtue signaling")
 
 ## Pre-requisites
 - `anaconda` (install from www.anaconda.org)
