@@ -1,4 +1,4 @@
-# Killing all the cows
+# Killing all the cows has no measurable impact on global average temperature
 Climate implications of reducing meat consumption (killing all the cows today "for the planet") today on the global average temperature (change in degrees Celsius, not contribution to emissions).
 
 ![Climate projections of killing all the cows today](plots/Killing_all_the_cows.png "Effect of highest level of virtue signaling")
